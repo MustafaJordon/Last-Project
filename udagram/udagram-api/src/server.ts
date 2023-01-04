@@ -1,5 +1,4 @@
-//Helloooo
-import * as dotenv from "dotenv";
+import * as dotenv from 'dotenv';
 import cors from 'cors';
 import express from "express";
 import { sequelize } from "./sequelize";

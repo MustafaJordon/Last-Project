@@ -13,5 +13,4 @@
 ## Credits
   THis app was deployed on AWS by Mustafa Mahmoud Ahmed
   
-### [Link to the hosted application](http://mustafa-new-bucket.s3-website-us-east-1.amazonaws.com 
-)
+### [Link to the hosted application](http://mustafa-new-bucket.s3-website-us-east-1.amazonaws.com)
